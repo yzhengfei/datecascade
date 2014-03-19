@@ -1,0 +1,28 @@
+{
+  "family": "b5m",
+  "name": "datecascade",
+  "version": "1.0.0",
+  "description": "日期级联组件,提供两级日期级联、以及星座功能特性(此组件扣至新浪微博)",
+  "homepage": "https://github.com/b5mjs/datecascade",
+  "author": "Zhengfei Yin <feld_yin@163.com>",
+  "maintainers": [
+    "Zhengfei Yin <feld_yin@163.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/b5mjs/datecascade.git"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "keywords": [],
+  "licenses": "MIT",
+  "spm": {
+    "output": [
+      "datecascade.js"
+    ],
+    "alias": {},
+    "devAlias": {},
+    "engines": {}
+  }
+}
